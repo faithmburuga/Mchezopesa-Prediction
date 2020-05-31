@@ -1,5 +1,5 @@
-Mchezopesa-Prediction
-A PYTHON PROJECT ON REGRESSION ANALYSIS
+# Mchezopesa-Prediction
+## A PYTHON PROJECT ON REGRESSION ANALYSIS
 
 WEEK 6 PROJECT, MAY 2020
 {By Faithelizabeth Mburuga}
