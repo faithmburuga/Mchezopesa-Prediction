@@ -1,10 +1,10 @@
 # Mchezopesa-Prediction
 ## A PYTHON PROJECT ON REGRESSION ANALYSIS
 
-**WEEK 6 PROJECT, MAY 2020**
-{By Faithelizabeth Mburuga}\
+**WEEK 6 PROJECT, MAY 2020**\
+{By Faithelizabeth Mburuga}
 
-**Description**
+**Description**\
 Predict the results of a game between team 1 and 2 based on:
 
 i) who's home and who's away
