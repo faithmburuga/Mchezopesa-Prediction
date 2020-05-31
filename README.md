@@ -12,16 +12,16 @@ i) who's home and who's away
 ii) whether or not the game is friendly (rank to be included in training).
 
 **Experimental Design**\
-Data cleaning
-Univariate analysis
-Bivariate analysis
-Polynomial regression
+Data cleaning\
+Univariate analysis\
+Bivariate analysis\
+Polynomial regression\
 Logistic regression
 
 **Installation Requirements**\
-Google colab
-Python basics
-Python libraries
+Google colab\
+Python basics\
+Python libraries\
 Github
 
 
